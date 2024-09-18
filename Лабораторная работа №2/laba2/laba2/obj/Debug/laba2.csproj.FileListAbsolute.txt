@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ООП\Лабораторная работа №2\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\user\Desktop\ООП\Лабораторная работа №2\laba2\laba2\bin\Debug\laba2.exe
+C:\Users\user\Desktop\ООП\Лабораторная работа №2\laba2\laba2\bin\Debug\laba2.pdb
+C:\Users\user\Desktop\ООП\Лабораторная работа №2\laba2\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\Лабораторная работа №2\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\Лабораторная работа №2\laba2\laba2\obj\Debug\laba2.exe
+C:\Users\user\Desktop\ООП\Лабораторная работа №2\laba2\laba2\obj\Debug\laba2.pdb
