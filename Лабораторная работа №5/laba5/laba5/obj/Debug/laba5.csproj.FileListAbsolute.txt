@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ООП\Лабораторная работа №5\laba5\laba5\bin\Debug\laba5.exe.config
+C:\Users\user\Desktop\ООП\Лабораторная работа №5\laba5\laba5\bin\Debug\laba5.exe
+C:\Users\user\Desktop\ООП\Лабораторная работа №5\laba5\laba5\bin\Debug\laba5.pdb
+C:\Users\user\Desktop\ООП\Лабораторная работа №5\laba5\laba5\obj\Debug\laba5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\Лабораторная работа №5\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\Лабораторная работа №5\laba5\laba5\obj\Debug\laba5.exe
+C:\Users\user\Desktop\ООП\Лабораторная работа №5\laba5\laba5\obj\Debug\laba5.pdb
