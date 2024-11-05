@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ООП\Лабораторная работа №6\laba6\laba6\bin\Debug\laba6.exe.config
+C:\Users\user\Desktop\ООП\Лабораторная работа №6\laba6\laba6\bin\Debug\laba6.exe
+C:\Users\user\Desktop\ООП\Лабораторная работа №6\laba6\laba6\bin\Debug\laba6.pdb
+C:\Users\user\Desktop\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.exe
+C:\Users\user\Desktop\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.pdb
+D:\БГТУ\ООП\Лабораторная работа №6\laba6\laba6\bin\Debug\laba6.exe.config
+D:\БГТУ\ООП\Лабораторная работа №6\laba6\laba6\bin\Debug\laba6.exe
+D:\БГТУ\ООП\Лабораторная работа №6\laba6\laba6\bin\Debug\laba6.pdb
+D:\БГТУ\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.exe
+D:\БГТУ\ООП\Лабораторная работа №6\laba6\laba6\obj\Debug\laba6.pdb
