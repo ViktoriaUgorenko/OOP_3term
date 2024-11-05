@@ -1,0 +1,2 @@
+Window (Type: Window) { Color='Red', NameOfWind='window1', CountOfWind=3 }
+Window (Type: Window) { Color='Blue', NameOfWind='window2', CountOfWind=2 }
