@@ -1,0 +1,7 @@
+D:\БГТУ\ООП\Лабораторная работа №8\laba8\laba8\bin\Debug\laba8.exe.config
+D:\БГТУ\ООП\Лабораторная работа №8\laba8\laba8\bin\Debug\laba8.exe
+D:\БГТУ\ООП\Лабораторная работа №8\laba8\laba8\bin\Debug\laba8.pdb
+D:\БГТУ\ООП\Лабораторная работа №8\laba8\laba8\obj\Debug\laba8.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\Лабораторная работа №8\laba8\laba8\obj\Debug\laba8.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\Лабораторная работа №8\laba8\laba8\obj\Debug\laba8.exe
+D:\БГТУ\ООП\Лабораторная работа №8\laba8\laba8\obj\Debug\laba8.pdb
