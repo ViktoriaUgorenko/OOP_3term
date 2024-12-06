@@ -1,0 +1,7 @@
+D:\БГТУ\ООП\Лабораторная работа №10\laba10\laba10\bin\Debug\laba10.exe.config
+D:\БГТУ\ООП\Лабораторная работа №10\laba10\laba10\bin\Debug\laba10.exe
+D:\БГТУ\ООП\Лабораторная работа №10\laba10\laba10\bin\Debug\laba10.pdb
+D:\БГТУ\ООП\Лабораторная работа №10\laba10\laba10\obj\Debug\laba10.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\Лабораторная работа №10\laba10\laba10\obj\Debug\laba10.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\Лабораторная работа №10\laba10\laba10\obj\Debug\laba10.exe
+D:\БГТУ\ООП\Лабораторная работа №10\laba10\laba10\obj\Debug\laba10.pdb
