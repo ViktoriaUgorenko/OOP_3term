@@ -1,0 +1,63 @@
+{
+    "drawio": {
+        "elements": [
+            {
+                "type": "participant",
+                "name": "Client",
+                "id": "participant_client"
+            },
+            {
+                "type": "participant",
+                "name": "System",
+                "id": "participant_system"
+            },
+            {
+                "type": "participant",
+                "name": "Administrator",
+                "id": "participant_admin"
+            },
+            {
+                "type": "message",
+                "from": "participant_client",
+                "to": "participant_system",
+                "label": "SubmitApplication",
+                "type": "request"
+            },
+            {
+                "type": "message",
+                "from": "participant_system",
+                "to": "participant_admin",
+                "label": "NotifyNewApplication",
+                "type": "notification"
+            },
+            {
+                "type": "message",
+                "from": "participant_admin",
+                "to": "participant_system",
+                "label": "SelectRoom",
+                "type": "response"
+            },
+            {
+                "type": "message",
+                "from": "participant_system",
+                "to": "participant_client",
+                "label": "GenerateInvoice",
+                "type": "response"
+            },
+            {
+                "type": "message",
+                "from": "participant_client",
+                "to": "participant_system",
+                "label": "ConfirmBooking",
+                "type": "request"
+            },
+            {
+                "type": "message",
+                "from": "participant_system",
+                "to": "participant_admin",
+                "label": "FinalizeBooking",
+                "type": "notification"
+            }
+        ]
+    }
+}

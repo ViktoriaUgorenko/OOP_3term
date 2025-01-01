@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfButton xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Button>
+    <Id>1</Id>
+    <InternalData>скрытая информация 1</InternalData>
+    <Color>красный</Color>
+    <ButtonText>нажми меня</ButtonText>
+  </Button>
+  <Button>
+    <Id>2</Id>
+    <InternalData>скрытая информация 2</InternalData>
+    <Color>зеленый</Color>
+    <ButtonText>жми</ButtonText>
+  </Button>
+  <Button>
+    <Id>3</Id>
+    <InternalData>скрытая информация 3</InternalData>
+    <Color>синий</Color>
+    <ButtonText>кликни</ButtonText>
+  </Button>
+</ArrayOfButton>

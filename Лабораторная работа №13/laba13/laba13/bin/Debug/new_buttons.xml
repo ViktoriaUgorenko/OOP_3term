@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Buttons>
+  <Button>
+    <Id>1</Id>
+    <Color>красный</Color>
+    <ButtonText>нажми меня</ButtonText>
+  </Button>
+  <Button>
+    <Id>2</Id>
+    <Color>зеленый</Color>
+    <ButtonText>жми</ButtonText>
+  </Button>
+  <Button>
+    <Id>3</Id>
+    <Color>синий</Color>
+    <ButtonText>кликни</ButtonText>
+  </Button>
+</Buttons>

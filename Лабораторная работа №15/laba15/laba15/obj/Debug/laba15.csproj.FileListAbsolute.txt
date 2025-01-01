@@ -1,0 +1,11 @@
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\obj\Debug\laba15.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\obj\Debug\laba15.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\bin\Debug\laba15.exe.config
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\bin\Debug\laba15.exe
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\bin\Debug\laba15.pdb
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\bin\Debug\System.Drawing.Common.dll
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\bin\Debug\System.Drawing.Common.pdb
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\bin\Debug\System.Drawing.Common.xml
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\obj\Debug\laba15.csproj.CopyComplete
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\obj\Debug\laba15.exe
+D:\БГТУ\ООП\Лабораторная работа №15\laba15\laba15\obj\Debug\laba15.pdb

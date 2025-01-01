@@ -1,0 +1,7 @@
+D:\БГТУ\ООП\Лабораторная работа №14\laba14\laba14\bin\Debug\laba14.exe.config
+D:\БГТУ\ООП\Лабораторная работа №14\laba14\laba14\bin\Debug\laba14.exe
+D:\БГТУ\ООП\Лабораторная работа №14\laba14\laba14\bin\Debug\laba14.pdb
+D:\БГТУ\ООП\Лабораторная работа №14\laba14\laba14\obj\Debug\laba14.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\Лабораторная работа №14\laba14\laba14\obj\Debug\laba14.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\Лабораторная работа №14\laba14\laba14\obj\Debug\laba14.exe
+D:\БГТУ\ООП\Лабораторная работа №14\laba14\laba14\obj\Debug\laba14.pdb
